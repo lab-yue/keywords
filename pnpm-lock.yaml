@@ -1,6 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
+  '@types/node': ^17.0.16
   '@vitejs/plugin-vue': ^2.0.0
   d3-graph-controller: ^2.2.8
   esno: ^0.14.1
@@ -16,6 +17,7 @@ dependencies:
   vue: 3.2.30
 
 devDependencies:
+  '@types/node': 17.0.16
   '@vitejs/plugin-vue': 2.1.0_vite@2.7.13+vue@3.2.30
   esno: 0.14.1
   rstoml: 0.0.3
@@ -168,6 +170,10 @@ packages:
 
   /@types/chai/4.3.0:
     resolution: {integrity: sha512-/ceqdqeRraGolFTcfoXNiqjyQhZzbINDngeoAq9GoHa8PPK1yNzTaxWjA6BFWp5Ua9JpXEMSS4s5i9tS0hOJtw==}
+    dev: true
+
+  /@types/node/17.0.16:
+    resolution: {integrity: sha512-ydLaGVfQOQ6hI1xK2A5nVh8bl0OGoIfYMxPWHqqYe9bTkWCfqiVvZoh2I/QF2sNSkZzZyROBoTefIEI+PB6iIA==}
     dev: true
 
   /@vitejs/plugin-vue/2.1.0_vite@2.7.13+vue@3.2.30:
