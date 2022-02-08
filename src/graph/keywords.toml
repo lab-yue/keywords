@@ -1,0 +1,188 @@
+[about.me]
+name = "yue"
+
+[[keywords]]
+type = "facts"
+color = "beige"
+items = [
+  "yue",
+  "上海",
+  "Tokyo",
+  "INTP",
+]
+
+[[keywords]]
+type = "langs"
+name = "言語"
+color = "orange"
+items = [
+  "日本語",
+  "中文",
+  "english"
+]
+
+[[keywords]]
+type = "learning"
+name = "勉強中"
+color = "honeydew"
+items = [
+  "韓国語",
+  "デザイン",
+  "game dev",
+  "CG",
+  "モデリング",
+]
+
+[[keywords]]
+type = "reading"
+name = "読書"
+color = "yellow"
+items = [
+  "小説",
+  "三秋縋",
+  "森見登美彦",
+  "恩田陸",
+]
+
+[[keywords]]
+type = "food"
+name = "料理"
+color = "khaki"
+items = [
+  "coffee",
+  "紅茶",
+  "水煮魚",
+  "鍋",
+  "麺類",
+]
+
+[[keywords]]
+type = "sports"
+name = "スポーツ"
+color = "lightblue"
+items = [
+  "バスケ",
+  "バドミントン",
+  "卓球",
+]
+
+[[keywords]]
+type = "believes"
+name = "believes"
+color = "gold"
+items = [
+  "freedom",
+  "privacy",
+  "law",
+]
+
+[[keywords]]
+type = "tech"
+name = "tech"
+color = "black"
+label = { color = "white" }
+items = [
+  "OSS",
+  "conference",
+  "frontend",
+  "NLP",
+  "webGL",
+  "VFX/shader",
+  "cloud",
+  "vr",
+  "prototyping",
+  "compiler",
+  "Arch linux",
+  "macOS",
+  "automaton",
+  "window manager",
+  "hhkb",
+  "rust",
+  "go",
+  "c#",
+  "grahql",
+  "typescript",
+  "node.js",
+  "css",
+  "markup",
+  "landing page",
+  "vue",
+  "react",
+  "python",
+  "cloudflare",
+  "cli",
+  "bot",
+]
+
+[[keywords]]
+type = "art"
+name = "美術"
+color = "hotpink"
+items = [
+  "sai",
+  "photoshop",
+  "krita",
+  "blender",
+  "figma",
+  "ペンタブ",
+  "デッサン",
+  "油絵",
+  "デジタル絵",
+]
+
+[[keywords]]
+type = "music"
+name = "音楽"
+color = "pink"
+items = [
+  "梶浦由記",
+  "see-saw",
+  "FictionJunction",
+  "kalafina",
+  "Aimer",
+  "柴田淳",
+]
+
+[[keywords]]
+type = "likes"
+name = "趣味"
+items = [
+  "coding",
+  "アニメ",
+  "写真",
+  "ルビックスキューブ",
+]
+
+[[keywords]]
+type = "travel"
+name = "旅行"
+color = "turquoise"
+items = [
+  "チベット",
+  "京都",
+  "沖縄",
+]
+
+[[keywords]]
+type = "vtubers"
+name = "vtubers"
+color = "cornflowerblue"
+label = { color = "white" }
+items = [
+  "百鬼あやめ",
+  "兎田ぺこら",
+  "桐生ココ",
+  "戌亥とこ",
+]
+
+[[keywords]]
+type = "games"
+name = "ゲーム"
+color = "yellowgreen"
+items = [
+  "Blizzard",
+  "Warcraft III",
+  "ハースストーン",
+  "原神",
+  "Pokémon",
+]
